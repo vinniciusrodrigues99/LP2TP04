@@ -5,6 +5,8 @@ Entrega do TP4 de LP2I4 - Fazendo uma conexão e consultando o banco de dados
 ## Vídeo do programa sendo executado
 <video src="./video/Tp4.java - ConexaoComBanco - Visual Studio Code 2023-11-09 16-44-10.mp4" controls> </video>
 
+## Link do vídeo no Youtube: https://youtu.be/Ffo48yR3WTI
+
 ## Folder Structure
 
 The workspace contains two folders by default, where:
