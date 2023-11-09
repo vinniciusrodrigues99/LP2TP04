@@ -1,6 +1,9 @@
-## Getting Started
+## CONEXÃO JAVA E BANCO DE DADOS
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Entrega do TP4 de LP2I4 - Fazendo uma conexão e consultando o banco de dados
+
+## Vídeo do programa sendo executado
+<video src="./video/Tp4.java - ConexaoComBanco - Visual Studio Code 2023-11-09 16-44-10.mp4" controls> </video>
 
 ## Folder Structure
 
